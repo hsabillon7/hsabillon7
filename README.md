@@ -49,8 +49,9 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.hsabillon7.vercel.app/api?username=hsabillon7&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
 
 <br />
+<br />
 
-![Top Langs](https://github-readme-stats.hsabillon7.vercel.app/api/top-langs/?username=hsabillon7&layout=compact)
+![Top Langs](https://github-readme-stats.hsabillon7.vercel.app/api/top-langs/?username=hsabillon7&layout=compact&theme=dracula&hide_border=true)
 
 [website]: https://alzatuvoz.hn
 [twitter]: https://twitter.com/hector_helliel

@@ -1,17 +1,16 @@
-### ¡Hola!, soy Héctor de [alzatuvoz][website]
+### ¡Hola!, soy Héctor Sabillón
 
-[![Website](https://img.shields.io/website?label=alzatuvoz.hn&style=for-the-badge&url=https%3A%2F%2Falzatuvoz.hn)](https://alzatuvoz.hn)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hector_helliel?color=1DA1F2&label=S%C3%ADgueme%20%40hector_helliel&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=hector_helliel)
 
-## Soy desarrollador Full Stack y docente
+## Soy desarrollador full stack / móvil y docente
 
+- Laboro en BairesDev
 - Imparto clases en la UNICAH
-- Actualmente estoy aprendiendo: Next.js
+- Actualmente estoy aprendiendo: Kafka/Elasticsearch
 - Busco colaborar en proyectos Open Source que puedan lograr un impacto en la sociedad
 
 ### Me puedes encontrar en:
 
-[<img align="left" alt="alzatuvoz.hn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="hector_helliel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hsabillon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -52,6 +51,5 @@
 
 ![Top Langs](https://github-readme-stats.hsabillon7.vercel.app/api/top-langs/?username=hsabillon7&layout=compact&theme=dracula&hide_border=true)
 
-[website]: https://alzatuvoz.hn
 [twitter]: https://twitter.com/hector_helliel
 [linkedin]: https://linkedin.com/in/hsabillon

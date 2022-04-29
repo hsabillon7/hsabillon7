@@ -2,10 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hector_helliel?color=1DA1F2&label=S%C3%ADgueme%20%40hector_helliel&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=hector_helliel)
 
-## Soy desarrollador full stack / móvil y docente
+## Soy desarrollador full stack / móvil
 
 - Laboro en BairesDev
-- Imparto clases en la UNICAH
 - Actualmente estoy aprendiendo: Kafka/Elasticsearch
 - Busco colaborar en proyectos Open Source que puedan lograr un impacto en la sociedad
 
